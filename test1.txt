@@ -1,1 +1,2 @@
 This is test1 file. Adding note in branch1.
+Note from GitHub.
