@@ -1,2 +1,3 @@
 This is test2 file for testing.
 This is an edit from branch1 on GitHub.
+MB - add note1

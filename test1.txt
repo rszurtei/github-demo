@@ -2,3 +2,4 @@ This is test1 file. Adding some text from master.
 Adding note in branch1.
 Adding a note that will conflict with GH!!!
 Adding note in GitHub.
+MB - add note 1
