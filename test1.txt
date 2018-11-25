@@ -3,3 +3,4 @@ Adding note in branch1.
 Adding a note that will conflict with GH!!!
 Adding note in GitHub.
 MB - add note 1
+MB - add note 2
