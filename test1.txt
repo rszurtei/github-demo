@@ -7,6 +7,7 @@ Adding note in GitHub.
 MB - add note 1
 MB - add note 2
 B1 - add note 1
+FIX1
 B1 - add note 2
 GH - add note 1
 GH - add note 2
