@@ -20,3 +20,4 @@ This is a note after going back in time...
 This is a non-critical change after FIX1
 Add new line locally to master.
 Making a github change to test1! This conflict with the local change!!!
+Local change.
