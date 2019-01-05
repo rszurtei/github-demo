@@ -18,3 +18,4 @@ B1 - add note 2 against GH change
 
 This is a note after going back in time...
 This is a non-critical change after FIX1
+Add new line locally to master.
